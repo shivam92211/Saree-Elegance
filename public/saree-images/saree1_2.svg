@@ -1,0 +1,36 @@
+<svg width="600" height="800" xmlns="http://www.w3.org/2000/svg">
+  <!-- Red silk saree close-up detail -->
+  <rect width="600" height="800" fill="#D02A2A" />
+  
+  <!-- Gold zari work close-up -->
+  <g fill="#BF9B30">
+    <!-- Detailed paisley pattern -->
+    <path d="M150,150 C200,100 300,120 300,200 C300,280 200,300 150,250 C100,200 100,200 150,150 Z" />
+    
+    <!-- Inner details of paisley -->
+    <path d="M170,170 C200,140 250,150 250,200 C250,250 200,260 170,230 C140,200 140,200 170,170 Z" fill="#D9B954" />
+    
+    <!-- More detailed work -->
+    <circle cx="200" cy="190" r="10" />
+    <circle cx="220" cy="210" r="8" />
+    <circle cx="240" cy="230" r="6" />
+    
+    <!-- Floral elements -->
+    <path d="M400,300 C420,280 450,290 450,320 C450,350 420,360 400,340 C380,320 380,320 400,300 Z" />
+    <path d="M420,320 C430,310 445,315 445,330 C445,345 430,350 420,340 C410,330 410,330 420,320 Z" fill="#D9B954" />
+    
+    <!-- Curved lines -->
+    <path d="M100,400 Q300,450 500,400" stroke="#BF9B30" stroke-width="2" fill="none" />
+    <path d="M100,420 Q300,470 500,420" stroke="#BF9B30" stroke-width="2" fill="none" />
+    <path d="M100,440 Q300,490 500,440" stroke="#BF9B30" stroke-width="2" fill="none" />
+  </g>
+  
+  <!-- Fabric texture -->
+  <rect x="0" y="0" width="600" height="800" fill="url(#silk-texture)" opacity="0.1" />
+  
+  <defs>
+    <pattern id="silk-texture" patternUnits="userSpaceOnUse" width="20" height="20">
+      <path d="M0,10 L20,10 M10,0 L10,20" stroke="#FFFFFF" stroke-width="0.5" opacity="0.3" />
+    </pattern>
+  </defs>
+</svg>

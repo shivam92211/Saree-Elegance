@@ -1,0 +1,68 @@
+<svg width="600" height="800" xmlns="http://www.w3.org/2000/svg">
+  <!-- Purple georgette saree close-up with silver sequins -->
+  <rect width="600" height="800" fill="#663399" />
+  
+  <!-- Close-up of georgette texture -->
+  <pattern id="georgette-weave" patternUnits="userSpaceOnUse" width="10" height="10">
+    <rect width="10" height="10" fill="#663399" />
+    <path d="M0,0 L10,10 M10,0 L0,10" stroke="#7A53A3" stroke-width="0.5" />
+  </pattern>
+  
+  <!-- Apply georgette texture -->
+  <rect width="600" height="800" fill="url(#georgette-weave)" />
+  
+  <!-- Close-up sequin detail -->
+  <g>
+    <!-- Enlarged sequin -->
+    <circle cx="300" cy="300" r="50" fill="#E0E0E0" opacity="0.9" />
+    <circle cx="300" cy="300" r="45" fill="#D0D0D0" opacity="0.9" />
+    <circle cx="300" cy="300" r="40" fill="#DDDDDD" opacity="0.9" />
+    
+    <!-- Reflective highlights -->
+    <circle cx="280" cy="280" r="15" fill="#FFFFFF" opacity="0.7" />
+    <circle cx="315" cy="315" r="10" fill="#FFFFFF" opacity="0.5" />
+    
+    <!-- Stitch detail -->
+    <circle cx="300" cy="300" r="52" fill="none" stroke="#7A53A3" stroke-width="1" />
+    
+    <!-- Thread detail -->
+    <line x1="300" y1="352" x2="300" y2="365" stroke="#7A53A3" stroke-width="1" />
+  </g>
+  
+  <!-- Additional sequins -->
+  <g>
+    <circle cx="150" cy="200" r="20" fill="#E0E0E0" opacity="0.8" />
+    <circle cx="150" cy="200" r="18" fill="#D0D0D0" opacity="0.8" />
+    <circle cx="150" cy="200" r="16" fill="#DDDDDD" opacity="0.8" />
+    <circle cx="145" cy="195" r="6" fill="#FFFFFF" opacity="0.6" />
+  </g>
+  
+  <g>
+    <circle cx="450" cy="400" r="25" fill="#E0E0E0" opacity="0.8" />
+    <circle cx="450" cy="400" r="22" fill="#D0D0D0" opacity="0.8" />
+    <circle cx="450" cy="400" r="20" fill="#DDDDDD" opacity="0.8" />
+    <circle cx="443" cy="393" r="7" fill="#FFFFFF" opacity="0.6" />
+  </g>
+  
+  <g>
+    <circle cx="200" cy="500" r="15" fill="#E0E0E0" opacity="0.8" />
+    <circle cx="200" cy="500" r="13" fill="#D0D0D0" opacity="0.8" />
+    <circle cx="200" cy="500" r="11" fill="#DDDDDD" opacity="0.8" />
+    <circle cx="196" cy="496" r="4" fill="#FFFFFF" opacity="0.6" />
+  </g>
+  
+  <g>
+    <circle cx="400" cy="150" r="18" fill="#E0E0E0" opacity="0.8" />
+    <circle cx="400" cy="150" r="16" fill="#D0D0D0" opacity="0.8" />
+    <circle cx="400" cy="150" r="14" fill="#DDDDDD" opacity="0.8" />
+    <circle cx="396" cy="146" r="5" fill="#FFFFFF" opacity="0.6" />
+  </g>
+  
+  <!-- Thread details around the sequins -->
+  <g stroke="#7A53A3" stroke-width="0.5" opacity="0.7">
+    <line x1="265" y1="300" x2="250" y2="300" />
+    <line x1="335" y1="300" x2="350" y2="300" />
+    <line x1="300" y1="265" x2="300" y2="250" />
+    <line x1="300" y1="335" x2="300" y2="350" />
+  </g>
+</svg>
