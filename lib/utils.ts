@@ -20,7 +20,7 @@ export function truncateText(text: string, length: number): string {
 export function generateWhatsAppLink(productId: string, productName: string): string {
   const message = encodeURIComponent(`Hello! I'm interested in purchasing the saree: ${productName} (ID: ${productId}). Could you provide more details?`);
   // Replace with your actual WhatsApp number
-  const phoneNumber = "919999999999"; // Format: country code + number without +
+  const phoneNumber = "918779520446"; // Format: country code + number without +
   
   return `https://wa.me/${phoneNumber}?text=${message}`;
 }

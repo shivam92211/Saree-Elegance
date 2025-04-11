@@ -1,4 +1,4 @@
-export type SareeType = 'silk' | 'cotton' | 'linen' | 'banarasi' | 'chiffon' | 'georgette';
+export type SareeType = 'silk' | 'cotton' | 'linen' | 'banarasi' | 'chiffon' | 'georgette' ;
 export type SareeOccasion = 'casual' | 'wedding' | 'festive' | 'party' | 'office';
 export type SareeColor = 'red' | 'blue' | 'green' | 'yellow' | 'purple' | 'pink' | 'orange' | 'black' | 'white' | 'gold' | 'silver' | 'multicolor';
 
@@ -32,27 +32,49 @@ export interface Saree {
 export const sarees: Saree[] = [
   {
     id: "saree1",
-    name: "Banarasi Silk Wedding Saree",
-    slug: "banarasi-silk-wedding-saree",
-    price: 15999,
-    discountPrice: 13999,
+    name: " Khadi Cotton Saree",
+    slug: "khadi-cotton-saree",
+    price: 3999,
+    discountPrice: 1150,
     images: [
       {
         id: "saree1_1",
-        src: "/saree-images/saree1_1.svg",
+        src: "/saree1/saree1_1.jpg",
         alt: "Banarasi Silk Wedding Saree - Front View"
       },
       {
         id: "saree1_2",
-        src: "/saree-images/saree1_2.svg",
+        src: "/saree1/saree1_2.jpg",
+        alt: "Banarasi Silk Wedding Saree - Detail View"
+      },
+      {
+        id: "saree1_3",
+        src: "/saree1/saree1_3.jpg",
+        alt: "Banarasi Silk Wedding Saree - Detail View"
+      },
+      {
+        id: "saree1_4",
+        src: "/saree1/saree1_4.jpg",
+        alt: "Banarasi Silk Wedding Saree - Detail View"
+      },
+      {
+        id: "saree1_5",
+        src: "/saree1/saree1_5.jpg",
+        alt: "Banarasi Silk Wedding Saree - Detail View"
+      },
+      {
+        id: "saree1_5",
+        src: "/saree1/saree1_6.jpg",
         alt: "Banarasi Silk Wedding Saree - Detail View"
       }
     ],
-    type: "banarasi",
+    type: "cotton",
     occasion: ["wedding", "festive"],
-    color: ["red", "gold"],
-    description: "Exquisite hand-woven Banarasi silk saree with intricate gold zari work throughout. This luxurious piece features traditional motifs and a rich pallu that will make you stand out at any wedding or special occasion. The vibrant red color symbolizes auspiciousness and celebration, making it perfect for brides and wedding guests alike.",
-    material: "Pure silk with gold zari work",
+    color: ['red' , 'blue' , 'green' ,'purple' ,'pink' ],
+    description: `Best Quality Khadi Cotton Saree With Extra Blouse🥻
+        🍁Size:- 6.5m+ 1m
+        🌸 Note :- 1m extra Block Print Pure Cotton Blouse`,
+    material: " Khadi Cotton ",
     blousePiece: true,
     blouseDetails: "Includes unstitched blouse piece with matching zari work",
     careInstructions: [
@@ -61,34 +83,59 @@ export const sarees: Saree[] = [
       "Keep away from direct sunlight",
       "Handle zari work with care"
     ],
-    length: "5.5 meters",
+    length: "6.5m + 1m",
     featured: true,
     new: false,
     inStock: true
   },
   {
     id: "saree2",
-    name: "Lightweight Cotton Casual Saree",
-    slug: "lightweight-cotton-casual-saree",
-    price: 2999,
-    discountPrice: 2499,
+    name: "NARAYANPETH SAREES🌸",
+    slug: "narayanpeth-sarees",
+    price: 5999,
+    discountPrice: 1550,
     images: [
       {
         id: "saree2_1",
-        src: "/saree-images/saree2_1.svg",
+        src: "/saree2/saree2_1.jpg",
         alt: "Lightweight Cotton Casual Saree - Front View"
       },
       {
         id: "saree2_2",
-        src: "/saree-images/saree2_2.svg",
-        alt: "Lightweight Cotton Casual Saree - Detail View"
+        src: "/saree2/saree2_2.jpg",
+        alt: "Lightweight Cotton Casual Saree - Front View"
+      },
+      {
+        id: "saree2_3",
+        src: "/saree2/saree2_3.jpg",
+        alt: "Lightweight Cotton Casual Saree - Front View"
+      },
+      {
+        id: "saree2_4",
+        src: "/saree2/saree2_4.jpg",
+        alt: "Lightweight Cotton Casual Saree - Front View"
+      },
+      {
+        id: "saree2_5",
+        src: "/saree2/saree2_5.jpg",
+        alt: "Lightweight Cotton Casual Saree - Front View"
+      },
+      {
+        id: "saree2_6",
+        src: "/saree2/saree2_6.jpg",
+        alt: "Lightweight Cotton Casual Saree - Front View"
       }
+      
     ],
     type: "cotton",
-    occasion: ["casual", "office"],
-    color: ["blue", "white"],
-    description: "Stay cool and comfortable with this breathable handloom cotton saree. Perfect for everyday wear, this lightweight piece features a contemporary striped pattern in soothing blue tones with a contrast border. The minimalist design makes it suitable for office wear while the premium cotton quality ensures comfort throughout the day.",
-    material: "Handloom cotton",
+    occasion: ["wedding", "festive"],
+    color: ['red' , 'blue' , 'green' ,'purple' ,'pink' ],
+    description: `Special Narayanpeth border sarees with beautiful Colors ✨ Saree with 3mtrs flower butta work ❤️ 
+    Fabric - cotton by acrylic 🌸 
+    6 mts saree with running blouse and gonda 💙
+    Colors also available🍥 
+    Pallu - contrast Meena rich pallu💚`,
+    material: "Fabric - cotton by acrylic ",
     blousePiece: true,
     blouseDetails: "Includes unstitched blouse piece in matching blue shade",
     careInstructions: [
@@ -102,29 +149,52 @@ export const sarees: Saree[] = [
     new: true,
     inStock: true
   },
+
   {
     id: "saree3",
-    name: "Designer Georgette Party Saree",
-    slug: "designer-georgette-party-saree",
-    price: 7999,
-    discountPrice: 6999,
+    name: "😍PURE SILK COPY😍",
+    slug: "pure-silk-copy",
+    price: 4999,
+    discountPrice: 1750,
     images: [
       {
         id: "saree3_1",
-        src: "/saree-images/saree3_1.svg",
+        src: "/saree3/saree3_1.jpg",
         alt: "Designer Georgette Party Saree - Front View"
       },
       {
         id: "saree3_2",
-        src: "/saree-images/saree3_2.svg",
-        alt: "Designer Georgette Party Saree - Detail View"
+        src: "/saree3/saree3_2.jpg",
+        alt: "Designer Georgette Party Saree - Front View"
+      },
+      {
+        id: "saree3_3",
+        src: "/saree3/saree3_3.jpg",
+        alt: "Designer Georgette Party Saree - Front View"
+      },
+      {
+        id: "saree3_4",
+        src: "/saree3/saree3_4.jpg",
+        alt: "Designer Georgette Party Saree - Front View"
+      },
+      {
+        id: "saree3_6",
+        src: "/saree3/saree3_5.jpg",
+        alt: "Designer Georgette Party Saree - Front View"
       }
     ],
-    type: "georgette",
+    type: "silk",
     occasion: ["party", "festive"],
     color: ["purple", "silver"],
-    description: "Make a statement at your next party with this stunning designer georgette saree. The lightweight fabric drapes beautifully while the lavish sequin and bead embellishments catch the light with every movement. The rich purple base with silver accents creates a regal look perfect for evening events and special celebrations.",
-    material: "Premium georgette with sequin and bead work",
+    description: `Handloom Garbha-reshmi Ercal Paithani
+          ✨✨✨✨✨✨✨✨
+          Handmade Border With Taseels
+          Garbhareshmi Tope Pallu
+          Running Blouse Peice
+          Premium Muserise Shiny & Soft Silk
+          Full Stock Available
+          Premium Quality 💯`,
+    material: "Georgette with intricate embroidery",
     blousePiece: true,
     blouseDetails: "Includes readymade blouse with intricate embroidery and back hook closure",
     careInstructions: [

@@ -32,14 +32,14 @@ export default function AboutPage() {
           <div className="h-full w-full rounded-full bg-saree-accent/30 flex items-center justify-center">
             <div className="text-center">
               <p className="text-saree-dark font-playfair text-lg">Est.</p>
-              <p className="text-saree-primary font-playfair font-bold text-2xl">2015</p>
+              <p className="text-saree-primary font-playfair font-bold text-2xl">2025</p>
             </div>
           </div>
         </div>
         
         <div className="prose prose-lg max-w-none">
           <p>
-            Welcome to <span className="text-saree-primary font-medium">Saree Elegance</span>, where tradition meets contemporary fashion. Our journey began with a simple passion: to showcase the rich heritage of Indian sarees to the world.
+            Welcome to <span className="text-saree-primary font-medium">Mrunal Collections</span>, where tradition meets contemporary fashion. Our journey began with a simple passion: to showcase the rich heritage of Indian sarees to the world.
           </p>
           
           <p>

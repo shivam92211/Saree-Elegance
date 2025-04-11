@@ -10,35 +10,35 @@ const Footer = () => {
           {/* Brand Section */}
           <div className="space-y-4">
             <Link href="/" className="inline-block">
-              <span className="font-playfair text-2xl font-bold text-saree-primary">Saree</span>
-              <span className="font-playfair text-2xl font-light text-saree-dark">Elegance</span>
+              <span className="font-playfair text-2xl font-bold text-saree-primary">Mrunal</span>
+              <span className="font-playfair text-2xl font-light text-saree-dark">Collectins</span>
             </Link>
             <p className="text-sm text-gray-600 max-w-xs">
               Discover the timeless elegance of traditional Indian sarees, handcrafted with love and
               showcasing exquisite craftsmanship.
             </p>
             <div className="flex space-x-4">
-              <a
+              {/* <a
                 href="#"
                 className="text-gray-600 hover:text-saree-primary transition-colors"
                 aria-label="Facebook"
               >
                 <Facebook className="h-5 w-5" />
-              </a>
+              </a> */}
               <a
-                href="#"
+                href="https://www.instagram.com/mrunali.in"
                 className="text-gray-600 hover:text-saree-primary transition-colors"
                 aria-label="Instagram"
               >
                 <Instagram className="h-5 w-5" />
               </a>
-              <a
+              {/* <a
                 href="#"
                 className="text-gray-600 hover:text-saree-primary transition-colors"
                 aria-label="Twitter"
               >
                 <Twitter className="h-5 w-5" />
-              </a>
+              </a> */}
             </div>
           </div>
 
@@ -76,20 +76,20 @@ const Footer = () => {
               <li className="flex items-start">
                 <MapPin className="h-5 w-5 mr-2 text-saree-primary" />
                 <span className="text-gray-600">
-                  123 Saree Street, Textile District,<br />
-                  Fashion City, 400001
+                201/B, Ramchandra Plaza, Kashi Nagar,<br />
+                Bhayander East, 400001
                 </span>
               </li>
               <li className="flex items-center">
                 <Phone className="h-5 w-5 mr-2 text-saree-primary" />
-                <a href="tel:+919999999999" className="text-gray-600 hover:text-saree-primary transition-colors">
-                  +91 99999 99999
+                <a href="tel:+918779520446" className="text-gray-600 hover:text-saree-primary transition-colors">
+                  +91 87795 20446
                 </a>
               </li>
               <li className="flex items-center">
                 <Mail className="h-5 w-5 mr-2 text-saree-primary" />
                 <a href="mailto:contact@sareeelegance.com" className="text-gray-600 hover:text-saree-primary transition-colors">
-                  contact@sareeelegance.com
+                mrunaligurav939@gmail.com
                 </a>
               </li>
             </ul>

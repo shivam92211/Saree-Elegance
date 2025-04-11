@@ -41,8 +41,8 @@ export default function ContactPage() {
                 <div>
                   <h3 className="font-medium">Our Address</h3>
                   <p className="text-gray-600 mt-1">
-                    123 Saree Street, Textile District,<br />
-                    Fashion City, 400001
+                    201/B, Ramchandra Plaza, Kashi Nagar,<br />
+                    Bhayander East, 400001
                   </p>
                 </div>
               </div>
@@ -52,10 +52,10 @@ export default function ContactPage() {
                 <div>
                   <h3 className="font-medium">Phone</h3>
                   <a 
-                    href="tel:+919999999999" 
+                    href="tel:+918779520446" 
                     className="text-gray-600 hover:text-saree-primary transition-colors mt-1 block"
                   >
-                    +91 99999 99999
+                    +91 87795 20446
                   </a>
                 </div>
               </div>
@@ -68,7 +68,7 @@ export default function ContactPage() {
                     href="mailto:contact@sareeelegance.com" 
                     className="text-gray-600 hover:text-saree-primary transition-colors mt-1 block"
                   >
-                    contact@sareeelegance.com
+                    mrunaligurav939@gmail.com
                   </a>
                 </div>
               </div>
@@ -111,7 +111,7 @@ export default function ContactPage() {
                   className="w-full"
                   asChild
                 >
-                  <a href="https://wa.me/919999999999" target="_blank" rel="noopener noreferrer">
+                  <a href="https://wa.me/918779520446" target="_blank" rel="noopener noreferrer">
                     Chat on WhatsApp
                   </a>
                 </Button>
@@ -120,10 +120,10 @@ export default function ContactPage() {
               <p className="text-center text-sm text-gray-500">
                 Or call us directly at{" "}
                 <a 
-                  href="tel:+919999999999" 
+                  href="tel:+918779520446" 
                   className="text-saree-primary hover:underline"
                 >
-                  +91 99999 99999
+                  +91 87795 20446
                 </a>
               </p>
             </div>

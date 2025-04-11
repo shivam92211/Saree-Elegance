@@ -18,8 +18,8 @@ const Header = () => {
       <div className="container flex h-16 items-center justify-between">
         <div className="flex items-center gap-2">
           <Link href="/" className="flex items-center">
-            <span className="font-playfair text-2xl font-bold text-saree-primary">Saree</span>
-            <span className="font-playfair text-2xl font-light text-saree-dark">Elegance</span>
+            <span className="font-playfair text-2xl font-bold text-saree-primary">Mrunal</span>
+            <span className="font-playfair text-2xl font-light text-saree-dark">Collections</span>
           </Link>
         </div>
 
