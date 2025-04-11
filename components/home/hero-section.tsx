@@ -58,8 +58,8 @@ const HeroSection = () => {
               <div className="relative h-64 w-64 md:h-72 md:w-72 rounded-full overflow-hidden bg-saree-primary/40 flex items-center justify-center">
                 <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 h-48 w-48 md:h-56 md:w-56 rounded-full bg-saree-light flex items-center justify-center">
                   <div className="text-center">
-                    <p className="text-saree-primary font-playfair font-medium text-lg">Elegant</p>
-                    <p className="text-saree-dark font-playfair font-bold text-3xl">Sarees</p>
+                    <p className="text-saree-primary font-playfair font-medium text-lg">Mrunal</p>
+                    <p className="text-saree-dark font-playfair font-bold text-3xl">Collections</p>
                     <p className="text-saree-secondary text-sm mt-1">Handcrafted</p>
                   </div>
                 </div>
