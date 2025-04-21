@@ -503,6 +503,116 @@ export const sarees: Saree[] = [
     inStock: true
   },
 
+  {
+    id: "saree8",
+    name: "Georgette Saree",
+    slug: "georgette-saree",
+    price: 4499,
+    discountPrice: 1650,
+    images: [
+      {
+        id: "saree8_1",
+        src: "/saree8/saree8_1.jpg",
+        alt: "Traditional Linen Festival Saree - Front View"
+      },
+      {
+        id: "saree8_2",
+        src: "/saree8/saree8_2.jpg",
+        alt: "Traditional Linen Festival Saree - Detail View"
+      },
+      {
+        id: "saree8_3",
+        src: "/saree8/saree8_3.jpg",
+        alt: "Traditional Linen Festival Saree - Front View"
+      },
+      {
+        id: "saree8_4",
+        src: "/saree8/saree8_4.jpg",
+        alt: "Traditional Linen Festival Saree - Detail View"
+      },
+      {
+        id: "saree8_5",
+        src: "/saree8/saree8_5.jpg",
+        alt: "Traditional Linen Festival Saree - Front View"
+      }
+
+    ],
+    type: "silk",
+    occasion: ["festive", "casual"],
+    color: ["green", "yellow", "multicolor"],
+    description: `Soft crush georgette saree with leaf design emboridary c-pallu with patched lace border
+
+    Blouse- perfectly matched batik style digital printed crape silk.
+    `,
+    material: "Soft & Shinny Material",
+    blousePiece: true,
+    blouseDetails: "1 meter Blouse Piece",
+    careInstructions: [
+      "Gentle machine wash or hand wash",
+      "Use mild detergent",
+      "Avoid bleach",
+      "Iron when slightly damp on medium heat"
+    ],
+    length: "5.5 meters",
+    featured: true,
+    new: true,
+    inStock: true
+  },
+
+
+  {
+    id: "saree9",
+    name: "Banarasi pattu saree",
+    slug: "banarasi-pattu-saree",
+    price: 4499,
+    discountPrice: 2900,
+    images: [
+      {
+        id: "saree9_1",
+        src: "/saree9/saree9_1.jpg",
+        alt: "Traditional Linen Festival Saree - Front View"
+      },
+      {
+        id: "saree9_2",
+        src: "/saree9/saree9_2.jpg",
+        alt: "Traditional Linen Festival Saree - Detail View"
+      },
+      {
+        id: "saree9_3",
+        src: "/saree9/saree9_3.jpg",
+        alt: "Traditional Linen Festival Saree - Front View"
+      },
+      {
+        id: "saree9_4",
+        src: "/saree9/saree9_4.jpg",
+        alt: "Traditional Linen Festival Saree - Detail View"
+      },
+
+    ],
+    type: "silk",
+    occasion: ["festive", "casual"],
+    color: ["green", "yellow", "multicolor"],
+    description: `
+    Banarasi pattu saree with paithani weaving on all over the saree
+      Rich & elegant paithani pallu as shown
+      Paithani Muniya Border on either side
+      Scalloped Lace attached on saree
+      Measurement  & Pattern as per customer Need`,
+    material: "Soft & Shinny Material",
+    blousePiece: true,
+    blouseDetails: "Teamed with designer stitched blouse piece",
+    careInstructions: [
+      "Gentle machine wash or hand wash",
+      "Use mild detergent",
+      "Avoid bleach",
+      "Iron when slightly damp on medium heat"
+    ],
+    length: "5.5 meters",
+    featured: true,
+    new: true,
+    inStock: true
+  },
+
 
 
 
