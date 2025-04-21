@@ -5,7 +5,7 @@ import Footer from "@/components/layout/footer";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Saree Elegance - Exquisite Saree Collection",
+  title: "Mrunal Collections - Exquisite Saree Collection",
   description: "Discover a beautiful collection of handcrafted sarees with traditional designs and modern elegance. Find your perfect saree for any occasion.",
 };
 

@@ -208,8 +208,110 @@ export const sarees: Saree[] = [
     new: false,
     inStock: true
   },
+
   {
     id: "saree4",
+    name: "Takshshila Paithani",
+    slug: "takshshila-paithani",
+    price: 4499,
+    discountPrice: 1550,
+    images: [
+      {
+        id: "saree4_1",
+        src: "/saree4/saree4_1.jpg",
+        alt: "Traditional Linen Festival Saree - Front View"
+      },  
+      {
+        id: "saree4_2",
+        src: "/saree4/saree4_2.jpg",
+        alt: "Traditional Linen Festival Saree - Detail View"
+      },
+      {
+        id: "saree4_3",
+        src: "/saree4/saree4_3.jpg",
+        alt: "Traditional Linen Festival Saree - Front View"
+      },
+      {
+        id: "saree4_4",
+        src: "/saree4/saree4_4.jpg",
+        alt: "Traditional Linen Festival Saree - Detail View"
+      },
+      {
+        id: "saree4_5",
+        src: "/saree4/saree4_5.jpg",
+        alt: "Traditional Linen Festival Saree - Front View"
+      },
+      {
+        id: "saree4_6",
+        src: "/saree4/saree4_6.jpg",
+        alt: "Traditional Linen Festival Saree - Detail View"
+      },
+      {
+        id: "saree4_7",
+        src: "/saree4/saree4_7.jpg",
+        alt: "Traditional Linen Festival Saree - Front View"
+      }
+      // {
+      //   id: "saree4_8",
+      //   src: "/saree4/saree4_8.jpg",
+      //   alt: "Traditional Linen Festival Saree - Detail View"
+      // },
+      // {
+      //   id: "saree4_9",
+      //   src: "/saree4/saree4_9.jpg",
+      //   alt: "Traditional Linen Festival Saree - Front View"
+      // },
+      // {
+      //   id: "saree4_10",
+      //   src: "/saree4/saree4_10.jpg",
+      //   alt: "Traditional Linen Festival Saree - Detail View"
+      // },
+      // {
+      //   id: "saree4_11",
+      //   src: "/saree4/saree4_11.jpg",
+      //   alt: "Traditional Linen Festival Saree - Front View"
+      // },
+      // {
+      //   id: "saree4_12",
+      //   src: "/saree4/saree4_12.jpg",
+      //   alt: "Traditional Linen Festival Saree - Detail View"
+      // },
+      // {
+      //   id: "saree4_13",
+      //   src: "/saree4/saree4_13.jpg",
+      //   alt: "Traditional Linen Festival Saree - Front View"
+      // },
+      // {
+      //   id: "saree4_14",
+      //   src: "/saree4/saree4_14.jpg",
+      //   alt: "Traditional Linen Festival Saree - Detail View"
+      // },
+    ],
+    type: "silk",
+    occasion: ["festive", "casual"],
+    color: ["green", "yellow", "multicolor"],
+    description: `All over Butti
+        Floral Brocade Border
+        50 % pure Silk
+        Self Blouse piece
+        Full Stock Available💯`,
+    material: "50% pure Silk",
+    blousePiece: true,
+    blouseDetails: "Floral Brocade Border",
+    careInstructions: [
+      "Gentle machine wash or hand wash",
+      "Use mild detergent",
+      "Avoid bleach",
+      "Iron when slightly damp on medium heat"
+    ],
+    length: "5 meters",
+    featured: true,
+    new: true,
+    inStock: true
+  },
+
+  {
+    id: "saree5",
     name: "Traditional Linen Festival Saree",
     slug: "traditional-linen-festival-saree",
     price: 4999,
@@ -243,7 +345,13 @@ export const sarees: Saree[] = [
     featured: true,
     new: true,
     inStock: true
-  }
+  },
+
+
+
+
+
+
 ];
 
 export const getAllSarees = () => sarees;

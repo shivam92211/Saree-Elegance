@@ -10,7 +10,7 @@ const Footer = () => {
           {/* Brand Section */}
           <div className="space-y-4">
             <Link href="/" className="inline-block">
-              <span className="font-playfair text-2xl font-bold text-saree-primary">Mrunal</span>
+              <span className="font-playfair text-2xl font-bold text-saree-primary">Mrunali</span>
               <span className="font-playfair text-2xl font-light text-saree-dark">Collectins</span>
             </Link>
             <p className="text-sm text-gray-600 max-w-xs">
@@ -88,7 +88,7 @@ const Footer = () => {
               </li>
               <li className="flex items-center">
                 <Mail className="h-5 w-5 mr-2 text-saree-primary" />
-                <a href="mailto:contact@sareeelegance.com" className="text-gray-600 hover:text-saree-primary transition-colors">
+                <a href="mailto:mrunaligurav939@gmail.com" className="text-gray-600 hover:text-saree-primary transition-colors">
                 mrunaligurav939@gmail.com
                 </a>
               </li>
@@ -98,7 +98,7 @@ const Footer = () => {
         
         <div className="mt-12 pt-6 border-t border-gray-200">
           <p className="text-center text-xs text-gray-500">
-            &copy; {new Date().getFullYear()} Saree Elegance. All rights reserved.
+            &copy; {new Date().getFullYear()} Mrunali Collections. All rights reserved.
           </p>
         </div>
       </div>
