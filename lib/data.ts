@@ -30,6 +30,7 @@ export interface Saree {
 }
 
 export const sarees: Saree[] = [
+
   {
     id: "saree1",
     name: " Khadi Cotton Saree",
@@ -88,6 +89,7 @@ export const sarees: Saree[] = [
     new: false,
     inStock: true
   },
+
   {
     id: "saree2",
     name: "NARAYANPETH SAREES🌸",
@@ -312,36 +314,126 @@ export const sarees: Saree[] = [
 
   {
     id: "saree5",
-    name: "Traditional Linen Festival Saree",
-    slug: "traditional-linen-festival-saree",
-    price: 4999,
-    discountPrice: 4499,
+    name: "Trisha Kalanjali",
+    slug: "trisha-kalanjali",
+    price: 4499,
+    discountPrice: 2850,
     images: [
       {
-        id: "saree4_1",
-        src: "/saree-images/saree4_1.svg",
+        id: "saree5_1",
+        src: "/saree5/saree5_1.jpeg",
         alt: "Traditional Linen Festival Saree - Front View"
       },
       {
-        id: "saree4_2",
-        src: "/saree-images/saree4_2.svg",
+        id: "saree5_2",
+        src: "/saree5/saree5_2.jpeg",
         alt: "Traditional Linen Festival Saree - Detail View"
-      }
+      },
+      {
+        id: "saree5_1",
+        src: "/saree5/saree5_3.jpeg",
+        alt: "Traditional Linen Festival Saree - Front View"
+      },
+      {
+        id: "saree5_2",
+        src: "/saree5/saree5_4.jpeg",
+        alt: "Traditional Linen Festival Saree - Detail View"
+      },
+      {
+        id: "saree5_1",
+        src: "/saree5/saree5_5.jpeg",
+        alt: "Traditional Linen Festival Saree - Front View"
+      },
+      {
+        id: "saree5_2",
+        src: "/saree5/saree5_6.jpeg",
+        alt: "Traditional Linen Festival Saree - Detail View"
+      },
+
     ],
-    type: "linen",
+    type: "silk",
     occasion: ["festive", "casual"],
     color: ["green", "yellow", "multicolor"],
-    description: "Celebrate traditions with this eco-friendly pure linen saree featuring hand-block prints in vibrant colors. The natural texture of linen combined with traditional motifs creates a perfect blend of comfort and style. The contrasting border and pallu add visual interest to this lightweight, breathable festival wear.",
-    material: "100% pure linen with natural dyes",
+    description: `All over Buttis
+          Paithani Border
+          Tana Soft Silk
+          Contrast Blouse
+          Rich Pallu
+          Premium Quality 💯`,
+    material: "Tana Soft Silk",
     blousePiece: true,
-    blouseDetails: "Includes unstitched blouse piece with matching block prints",
+    blouseDetails: "Blouse Work Paithani",
     careInstructions: [
       "Gentle machine wash or hand wash",
       "Use mild detergent",
       "Avoid bleach",
       "Iron when slightly damp on medium heat"
     ],
-    length: "6.3 meters",
+    length: "5.1 meters",
+    featured: true,
+    new: true,
+    inStock: true
+  },
+
+
+  {
+    id: "saree6",
+    name: "Aisha Traditional Pallu Paithani",
+    slug: "aisha-traditional-pallu-paithani",
+    price: 4499,
+    discountPrice: 1750,
+    images: [
+      {
+        id: "saree5_1",
+        src: "/saree6/saree6_1.jpg",
+        alt: "Traditional Linen Festival Saree - Front View"
+      },
+      {
+        id: "saree5_2",
+        src: "/saree6/saree6_2.jpg",
+        alt: "Traditional Linen Festival Saree - Detail View"
+      },
+      {
+        id: "saree5_1",
+        src: "/saree6/saree6_3.jpg",
+        alt: "Traditional Linen Festival Saree - Front View"
+      },
+      {
+        id: "saree5_2",
+        src: "/saree6/saree6_9.jpg",
+        alt: "Traditional Linen Festival Saree - Detail View"
+      },
+      {
+        id: "saree5_1",
+        src: "/saree6/saree6_5.jpg",
+        alt: "Traditional Linen Festival Saree - Front View"
+      },
+      {
+        id: "saree5_2",
+        src: "/saree6/saree6_6.jpg",
+        alt: "Traditional Linen Festival Saree - Detail View"
+      },
+
+    ],
+    type: "silk",
+    occasion: ["festive", "casual"],
+    color: ["green", "yellow", "multicolor"],
+    description: `All over Buttis
+          Paithani Border
+          Tana Soft Silk
+          Contrast Blouse
+          Rich Pallu
+          Premium Quality 💯`,
+    material: "Soft Tana Silk ",
+    blousePiece: true,
+    blouseDetails: "Blouse Work Paithani",
+    careInstructions: [
+      "Gentle machine wash or hand wash",
+      "Use mild detergent",
+      "Avoid bleach",
+      "Iron when slightly damp on medium heat"
+    ],
+    length: "5.1 meters",
     featured: true,
     new: true,
     inStock: true
