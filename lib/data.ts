@@ -440,6 +440,70 @@ export const sarees: Saree[] = [
   },
 
 
+  {
+    id: "saree7",
+    name: "🦚New Maharani Kadiyal Paithani🦚",
+    slug: "new-maharani-kadiyal-paithani",
+    price: 4499,
+    discountPrice: 1550,
+    images: [
+      {
+        id: "saree7_1",
+        src: "/saree7/saree7_1.jpg",
+        alt: "Traditional Linen Festival Saree - Front View"
+      },
+      {
+        id: "saree7_2",
+        src: "/saree7/saree7_2.jpg",
+        alt: "Traditional Linen Festival Saree - Detail View"
+      },
+      {
+        id: "saree7_3",
+        src: "/saree7/saree7_8.jpg",
+        alt: "Traditional Linen Festival Saree - Front View"
+      },
+      {
+        id: "saree7_4",
+        src: "/saree7/saree7_11.jpg",
+        alt: "Traditional Linen Festival Saree - Detail View"
+      },
+      {
+        id: "saree7_5",
+        src: "/saree7/saree7_5.jpg",
+        alt: "Traditional Linen Festival Saree - Front View"
+      },
+      {
+        id: "saree7_6",
+        src: "/saree7/saree7_6.jpg",
+        alt: "Traditional Linen Festival Saree - Detail View"
+      },
+
+    ],
+    type: "silk",
+    occasion: ["festive", "casual"],
+    color: ["green", "yellow", "multicolor"],
+    description: `Pure Silk Copy Maharani Kadiyal
+          Soft Silk Shinny Material
+          All Over Kalanjali Butti
+          Meenakari Weaving Pallu
+          Book Fast 🙌🏻
+          ✨✨✨✨`,
+    material: "Soft & Shinny Material",
+    blousePiece: true,
+    blouseDetails: "Contrst Blouse Piece",
+    careInstructions: [
+      "Gentle machine wash or hand wash",
+      "Use mild detergent",
+      "Avoid bleach",
+      "Iron when slightly damp on medium heat"
+    ],
+    length: "5.1 meters",
+    featured: true,
+    new: true,
+    inStock: true
+  },
+
+
 
 
 
