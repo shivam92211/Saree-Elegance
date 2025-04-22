@@ -76,8 +76,8 @@ const Footer = () => {
               <li className="flex items-start">
                 <MapPin className="h-5 w-5 mr-2 text-saree-primary" />
                 <span className="text-gray-600">
-                201/B, Ramchandra Plaza, Kashi Nagar,<br />
-                Bhayander East, 400001
+                302 Mukund smruti, behind orange hospital,<br />
+                opposite balahabher takrey ground 401105,
                 </span>
               </li>
               <li className="flex items-center">

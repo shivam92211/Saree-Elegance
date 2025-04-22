@@ -41,8 +41,8 @@ export default function ContactPage() {
                 <div>
                   <h3 className="font-medium">Our Address</h3>
                   <p className="text-gray-600 mt-1">
-                    201/B, Ramchandra Plaza, Kashi Nagar,<br />
-                    Bhayander East, 400001
+                  302 Mukund smruti, behind orange hospital, <br />
+                  opposite balahabher takrey ground 401105,
                   </p>
                 </div>
               </div>

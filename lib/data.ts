@@ -614,6 +614,184 @@ export const sarees: Saree[] = [
   },
 
 
+  {
+    id: "saree10",
+    name: "Soft organza",
+    slug: "soft-organza",
+    price: 4499,
+    discountPrice: 2100,
+    images: [
+      {
+        id: "saree10_1",
+        src: "/saree10/saree10_1.jpg",
+        alt: "Traditional Linen Festival Saree - Front View"
+      },
+      {
+        id: "saree10_2",
+        src: "/saree10/saree10_2.jpg",
+        alt: "Traditional Linen Festival Saree - Detail View"
+      },
+      {
+        id: "saree10_3",
+        src: "/saree10/saree10_3.jpg",
+        alt: "Traditional Linen Festival Saree - Front View"
+      },
+      {
+        id: "saree10_4",
+        src: "/saree10/saree10_4.jpg",
+        alt: "Traditional Linen Festival Saree - Detail View"
+      },
+
+    ],
+    type: "silk",
+    occasion: ["festive", "casual"],
+    color: ["green", "yellow", "multicolor"],
+    description: `
+    Soft organza saree with beautiful print cover with handcrafted work all over and stitched silk blouse with handwork `,
+    material: "Soft & Shinny Material",
+    blousePiece: true,
+    blouseDetails: "silk blouse with handwork",
+    careInstructions: [
+      "Gentle machine wash or hand wash",
+      "Use mild detergent",
+      "Avoid bleach",
+      "Iron when slightly damp on medium heat"
+    ],
+    length: "5.5 meters",
+    featured: true,
+    new: true,
+    inStock: true
+  },
+
+
+  {
+    id: "saree11",
+    name: "❣️❣️ KORVAI BORDER SILK COTTON",
+    slug: "korvai-border-silk-cotton",
+    price: 4499,
+    discountPrice: 1650,
+    images: [
+      {
+        id: "saree11_1",
+        src: "/saree11/saree11_1.jpg",
+        alt: "Traditional Linen Festival Saree - Front View"
+      },
+      {
+        id: "saree11_2",
+        src: "/saree11/saree11_2.jpg",
+        alt: "Traditional Linen Festival Saree - Detail View"
+      },
+      {
+        id: "saree11_3",
+        src: "/saree11/saree11_3.jpg",
+        alt: "Traditional Linen Festival Saree - Front View"
+      },
+      {
+        id: "saree11_4",
+        src: "/saree11/saree11_4.jpg",
+        alt: "Traditional Linen Festival Saree - Detail View"
+      },
+      {
+        id: "saree11_5",
+        src: "/saree11/saree11_5.jpg",
+        alt: "Traditional Linen Festival Saree - Front View"
+      },
+      {
+        id: "saree11_6",
+        src: "/saree11/saree11_6.jpg",
+        alt: "Traditional Linen Festival Saree - Detail View"
+      },
+
+    ],
+    type: "silk",
+    occasion: ["festive", "casual"],
+    color: ["green", "yellow", "multicolor"],
+    description: `
+    💞 Saree - 6:25 mts with Attached  blouse 
+    💞 Kottanji korvai border 
+    💞 Contrast plain blouse 
+    💞 Contrast chit and line  pallu
+    ❣️ All colors multiples Available
+    🖤💞🖤💞🖤💞🖤💞🖤💞🖤`,
+    material: "Soft & Shinny Material",
+    blousePiece: true,
+    blouseDetails: "💞 Contrast plain blouse",
+    careInstructions: [
+      "Gentle machine wash or hand wash",
+      "Use mild detergent",
+      "Avoid bleach",
+      "Iron when slightly damp on medium heat"
+    ],
+    length: "6.25 meters",
+    featured: true,
+    new: true,
+    inStock: true
+  },
+
+
+  {
+    id: "saree12",
+    name: "Maithali ❤️",
+    slug: "maithali",
+    price: 4499,
+    discountPrice: 1750,
+    images: [
+      {
+        id: "saree12_1",
+        src: "/saree12/saree12_1.jpg",
+        alt: "Traditional Linen Festival Saree - Front View"
+      },
+      {
+        id: "saree12_2",
+        src: "/saree12/saree12_2.jpg",
+        alt: "Traditional Linen Festival Saree - Detail View"
+      },
+      {
+        id: "saree12_3",
+        src: "/saree12/saree12_3.jpg",
+        alt: "Traditional Linen Festival Saree - Front View"
+      },
+      {
+        id: "saree12_4",
+        src: "/saree12/saree12_4.jpg",
+        alt: "Traditional Linen Festival Saree - Detail View"
+      },
+      {
+        id: "saree12_5",
+        src: "/saree12/saree12_5.jpg",
+        alt: "Traditional Linen Festival Saree - Front View"
+      },
+      {
+        id: "saree12_6",
+        src: "/saree12/saree12_6.jpg",
+        alt: "Traditional Linen Festival Saree - Detail View"
+      },
+
+    ],
+    type: "silk",
+    occasion: ["festive", "casual"],
+    color: ["green", "yellow", "multicolor"],
+    description: `
+    Pure soft Rangoli silk sarees with beautiful embroidery thread work  lehariya in all over saree with heavy borders nd cut work...
+    Paired with Fully Stiched embroidery work blouse on running fabrics 
+    Can be upto 42"
+    🔥Eye catching 6 colours 🔥`,
+    material: "Soft & Shinny Material",
+    blousePiece: true,
+    blouseDetails: "Blouse on running fabrics ",
+    careInstructions: [
+      "Gentle machine wash or hand wash",
+      "Use mild detergent",
+      "Avoid bleach",
+      "Iron when slightly damp on medium heat"
+    ],
+    length: "6.25 meters",
+    featured: true,
+    new: true,
+    inStock: true
+  },
+
+
 
 
 
