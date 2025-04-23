@@ -112,7 +112,7 @@ export default function ContactPage() {
                   asChild
                 >
                   <a href="https://wa.me/918779520446" target="_blank" rel="noopener noreferrer">
-                    Chat on WhatsApp
+                    Chat
                   </a>
                 </Button>
               </div>

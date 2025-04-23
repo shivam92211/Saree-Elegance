@@ -791,6 +791,396 @@ export const sarees: Saree[] = [
     inStock: true
   },
 
+  {
+    id: "saree13",
+    name: "👆Kora Organza Silk Collection ☝",
+    slug: "kora-organaza-silk-collection",
+    price: 4499,
+    discountPrice: 1650,
+    images: [
+      {
+        id: "saree13_1",
+        src: "/saree13/saree13_1.jpg",
+        alt: "Traditional Linen Festival Saree - Front View"
+      },
+      {
+        id: "saree13_2",
+        src: "/saree13/saree13_2.jpg",
+        alt: "Traditional Linen Festival Saree - Detail View"
+      },
+      {
+        id: "saree13_3",
+        src: "/saree13/saree13_3.jpg",
+        alt: "Traditional Linen Festival Saree - Front View"
+      },
+      {
+        id: "saree13_4",
+        src: "/saree13/saree13_4.jpg",
+        alt: "Traditional Linen Festival Saree - Detail View"
+      },
+      {
+        id: "saree13_5",
+        src: "/saree13/saree13_5.jpg",
+        alt: "Traditional Linen Festival Saree - Front View"
+      },
+      {
+        id: "saree13_6",
+        src: "/saree13/saree13_6.jpg",
+        alt: "Traditional Linen Festival Saree - Detail View"
+      },
+
+    ],
+    type: "silk",
+    occasion: ["festive", "casual"],
+    color: ["green", "yellow", "multicolor"],
+    description: `
+    👆Trending  kora organza silk collection ☝ 
+      Bnarasi soft kora organza  silk fabric 
+      Latest Trending zari weaving  border design  😍 
+      Beautiful chikankari  embroidery work design full saree
+      Best quality 💯 and dimanded design 
+      Plain with bodar blouse pic 
+      Zari weaving  disignr pllu
+      Gud fabric saree 
+      Singl n multiple avlibl 😍`,
+    material: "Soft & Shinny Material",
+    blousePiece: true,
+    blouseDetails: "Plain with bodar blouse pic",
+    careInstructions: [
+      "Gentle machine wash or hand wash",
+      "Use mild detergent",
+      "Avoid bleach",
+      "Iron when slightly damp on medium heat"
+    ],
+    length: "5.5 meters",
+    featured: true,
+    new: true,
+    inStock: true
+  },
+
+
+  {
+    id: "saree14",
+    name: "Pure silk sarees",
+    slug: "pure-silk-sarees",
+    price: 4499,
+    discountPrice: 1850,
+    images: [
+      {
+        id: "saree14_1",
+        src: "/saree14/saree14_1.jpg",
+        alt: "Traditional Linen Festival Saree - Front View"
+      },
+      {
+        id: "saree14_2",
+        src: "/saree14/saree14_2.jpg",
+        alt: "Traditional Linen Festival Saree - Detail View"
+      },
+      {
+        id: "saree14_3",
+        src: "/saree14/saree14_3.jpg",
+        alt: "Traditional Linen Festival Saree - Front View"
+      },
+      {
+        id: "saree14_4",
+        src: "/saree14/saree14_4.jpg",
+        alt: "Traditional Linen Festival Saree - Detail View"
+      },
+      {
+        id: "saree14_5",
+        src: "/saree14/saree14_5.jpg",
+        alt: "Traditional Linen Festival Saree - Front View"
+      },
+      {
+        id: "saree14_6",
+        src: "/saree14/saree14_6.jpg",
+        alt: "Traditional Linen Festival Saree - Detail View"
+      },
+
+    ],
+    type: "silk",
+    occasion: ["festive", "casual"],
+    color: ["green", "yellow", "multicolor"],
+    description: `
+    FABRIC:-PURE SOFT GOLD ZARI KANCHIVRAM  PAITHANI SILK
+    AND CONTRAST MINAKARI BODER AND HEAVY MINA ZARI WEAVING  PALLU
+    💯%Best Quality 
+    💯%Full Guarantee
+    This saree's not replica
+    Not champion`,
+    material: "Soft & Shinny Material",
+    blousePiece: true,
+    blouseDetails: "Blouse - contrast brocket",
+    careInstructions: [
+      "Gentle machine wash or hand wash",
+      "Use mild detergent",
+      "Avoid bleach",
+      "Iron when slightly damp on medium heat"
+    ],
+    length: "5.5 meters",
+    featured: true,
+    new: true,
+    inStock: true
+  },
+
+  {
+    id: "saree15",
+    name: "Traditional Narayanpeth Silk Paithani",
+    slug: "traditional-narayanpeth-silk-paithani",
+    price: 4499,
+    discountPrice: 1850,
+    images: [
+      {
+        id: "saree15_1",
+        src: "/saree15/saree15_1.jpg",
+        alt: "Traditional Linen Festival Saree - Front View"
+      },
+      {
+        id: "saree15_2",
+        src: "/saree15/saree15_2.jpg",
+        alt: "Traditional Linen Festival Saree - Detail View"
+      },
+      {
+        id: "saree15_3",
+        src: "/saree15/saree15_3.jpg",
+        alt: "Traditional Linen Festival Saree - Front View"
+      },
+      {
+        id: "saree15_4",
+        src: "/saree15/saree15_4.jpg",
+        alt: "Traditional Linen Festival Saree - Detail View"
+      },
+      {
+        id: "saree15_5",
+        src: "/saree15/saree15_7.jpg",
+        alt: "Traditional Linen Festival Saree - Front View"
+      },
+      {
+        id: "saree15_6",
+        src: "/saree15/saree15_6.jpg",
+        alt: "Traditional Linen Festival Saree - Detail View"
+      },
+
+    ],
+    type: "silk",
+    occasion: ["festive", "casual"],
+    color: ["green", "yellow", "multicolor"],
+    description: `
+    ✨✨✨✨✨✨✨✨
+    Shoulder Buttis
+    Traditional Rich Pallu
+    Running Blouse Piece
+    Premium Pure Shiny Soft Silk
+    Full Stock Available
+    ✨✨✨✨✨✨✨✨`,
+    material: "Soft & Shinny Material",
+    blousePiece: true,
+    blouseDetails: "Running Blouse Piece",
+    careInstructions: [
+      "Gentle machine wash or hand wash",
+      "Use mild detergent",
+      "Avoid bleach",
+      "Iron when slightly damp on medium heat"
+    ],
+    length: "5.5 meters",
+    featured: true,
+    new: true,
+    inStock: true
+  },
+
+
+  {
+    id: "saree16",
+    name: "Cotton Saree collection",
+    slug: "cotton-saree-collection",
+    price: 4499,
+    discountPrice: 1150,
+    images: [
+      {
+        id: "saree16_1",
+        src: "/saree16/saree16_1.jpg",
+        alt: "Traditional Linen Festival Saree - Front View"
+      },
+      {
+        id: "saree16_2",
+        src: "/saree16/saree16_2.jpg",
+        alt: "Traditional Linen Festival Saree - Detail View"
+      },
+      {
+        id: "saree16_3",
+        src: "/saree16/saree16_3.jpg",
+        alt: "Traditional Linen Festival Saree - Front View"
+      },
+      {
+        id: "saree16_4",
+        src: "/saree16/saree16_4.jpg",
+        alt: "Traditional Linen Festival Saree - Detail View"
+      },
+      {
+        id: "saree16_5",
+        src: "/saree16/saree16_5.jpg",
+        alt: "Traditional Linen Festival Saree - Front View"
+      },
+      {
+        id: "saree16_6",
+        src: "/saree16/saree16_6.jpg",
+        alt: "Traditional Linen Festival Saree - Detail View"
+      },
+
+    ],
+    type: "cotton",
+    occasion: ["festive", "casual"],
+    color: ["green", "yellow", "multicolor"],
+    description: `
+    🍁New arrival🍁
+    🍀Cotton Saree collection🍀
+    Hand block printed pure cotton mulmul saree
+    👉🏻Print- Hand block Bagru, Dabu, Batik  Vegetable dye
+    👉🏻Size:- 6.5 with blouse
+    👉🏻Fabric:-Pure cotton 92*80 super dying
+    👉🏻 All Design available in quantity 👈🏻`,
+    material: "Soft & Shinny Material",
+    blousePiece: true,
+    blouseDetails: "Running Blouse Piece",
+    careInstructions: [
+      "Gentle machine wash or hand wash",
+      "Use mild detergent",
+      "Avoid bleach",
+      "Iron when slightly damp on medium heat"
+    ],
+    length: "6.5 meters",
+    featured: true,
+    new: true,
+    inStock: true
+  },
+
+
+  {
+    id: "saree17",
+    name: "Chinnon Silk sarees",
+    slug: "chinnon-silk-sarees",
+    price: 4499,
+    discountPrice: 1450,
+    images: [
+      {
+        id: "saree17_1",
+        src: "/saree17/saree17_1.jpg",
+        alt: "Traditional Linen Festival Saree - Front View"
+      },
+      {
+        id: "saree17_2",
+        src: "/saree17/saree17_2.jpg",
+        alt: "Traditional Linen Festival Saree - Detail View"
+      },
+      {
+        id: "saree17_3",
+        src: "/saree17/saree17_3.jpg",
+        alt: "Traditional Linen Festival Saree - Front View"
+      },
+      {
+        id: "saree17_4",
+        src: "/saree17/saree17_4.jpg",
+        alt: "Traditional Linen Festival Saree - Detail View"
+      },
+      {
+        id: "saree17_5",
+        src: "/saree17/saree17_5.jpg",
+        alt: "Traditional Linen Festival Saree - Front View"
+      },
+      {
+        id: "saree17_6",
+        src: "/saree17/saree17_6.jpg",
+        alt: "Traditional Linen Festival Saree - Detail View"
+      },
+
+    ],
+    type: "silk",
+    occasion: ["festive", "casual"],
+    color: ["green", "yellow", "multicolor"],
+    description: `
+    Pure Chinnon Silk sarees with Sequence Embroidery Work In Saree With Heavy Fancy Embroidery Work Blouse`,
+    material: "Soft & Shinny Material",
+    blousePiece: true,
+    blouseDetails: "Running Blouse Piece",
+    careInstructions: [
+      "Gentle machine wash or hand wash",
+      "Use mild detergent",
+      "Avoid bleach",
+      "Iron when slightly damp on medium heat"
+    ],
+    length: "6.5 meters",
+    featured: true,
+    new: true,
+    inStock: true
+  },
+
+
+  {
+    id: "saree18",
+    name: "🦚Shree Renuka Mata Prasanna🦚",
+    slug: "shree-renuka-mata-prasanna",
+    price: 4499,
+    discountPrice: 3700,
+    images: [
+      {
+        id: "saree18_1",
+        src: "/saree18/saree18_1.jpg",
+        alt: "Traditional Linen Festival Saree - Front View"
+      },
+      {
+        id: "saree18_2",
+        src: "/saree18/saree18_2.jpg",
+        alt: "Traditional Linen Festival Saree - Detail View"
+      },
+      {
+        id: "saree18_3",
+        src: "/saree18/saree18_3.jpg",
+        alt: "Traditional Linen Festival Saree - Front View"
+      },
+      {
+        id: "saree18_4",
+        src: "/saree18/saree18_4.jpg",
+        alt: "Traditional Linen Festival Saree - Detail View"
+      },
+      {
+        id: "saree18_5",
+        src: "/saree18/saree18_5.jpg",
+        alt: "Traditional Linen Festival Saree - Front View"
+      },
+      {
+        id: "saree18_6",
+        src: "/saree18/saree18_6.jpg",
+        alt: "Traditional Linen Festival Saree - Detail View"
+      },
+
+    ],
+    type: "cotton",
+    occasion: ["festive", "casual"],
+    color: ["green", "yellow", "multicolor"],
+    description: `
+    🦚 2-3-2  kadiyal  paithani. 🦚
+    🦚Sami  Silk  Material🦚
+    🦚AllOver Meena Butta 🦚
+    🦚 contras Blouse.🦚
+    🦚Contras Border🦚`,
+    material: "Soft & Shinny Material",
+    blousePiece: true,
+    blouseDetails: "Running Blouse Piece",
+    careInstructions: [
+      "Gentle machine wash or hand wash",
+      "Use mild detergent",
+      "Avoid bleach",
+      "Iron when slightly damp on medium heat"
+    ],
+    length: "6.5 meters",
+    featured: true,
+    new: true,
+    inStock: true
+  },
+
+
+  
+
 
 
 

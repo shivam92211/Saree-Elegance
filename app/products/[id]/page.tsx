@@ -155,7 +155,7 @@ export default async function ProductPage({ params }: any) {
               asChild
             >
               <a href={whatsappLink} target="_blank" rel="noopener noreferrer">
-                {saree.inStock ? "Buy on WhatsApp" : "Out of Stock"}
+                {saree.inStock ? "Buy" : "Out of Stock"}
               </a>
             </Button>
             
