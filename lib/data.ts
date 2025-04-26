@@ -1178,6 +1178,442 @@ export const sarees: Saree[] = [
     inStock: true
   },
 
+  {
+    id: "saree19",
+    name: "Padma ",
+    slug: "padma",
+    price: 4499,
+    discountPrice: 750,
+    images: [
+      {
+        id: "saree19_1",
+        src: "/saree19/saree19_1.jpg",
+        alt: "Traditional Linen Festival Saree - Front View"
+      },
+      {
+        id: "saree19_2",
+        src: "/saree19/saree19_2.jpg",
+        alt: "Traditional Linen Festival Saree - Detail View"
+      },
+      {
+        id: "saree19_3",
+        src: "/saree19/saree19_3.jpg",
+        alt: "Traditional Linen Festival Saree - Front View"
+      },
+      {
+        id: "saree19_4",
+        src: "/saree19/saree19_4.jpg",
+        alt: "Traditional Linen Festival Saree - Detail View"
+      },
+      {
+        id: "saree19_5",
+        src: "/saree19/saree19_5.jpg",
+        alt: "Traditional Linen Festival Saree - Front View"
+      },
+      {
+        id: "saree19_6",
+        src: "/saree19/saree19_6.jpg",
+        alt: "Traditional Linen Festival Saree - Detail View"
+      },
+
+    ],
+    type: "cotton",
+    occasion: ["festive", "casual"],
+    color: ["green", "yellow", "multicolor"],
+    description: `
+    🌹 padma all over  hand print saree 🎄
+    🌹 Metirials- COTTON 🎄
+    🌹 Blouse piece available 🎄
+    🎄 Primium quality 🌹`,
+    material: "Soft & Shinny Material",
+    blousePiece: true,
+    blouseDetails: "Running Blouse Piece",
+    careInstructions: [
+      "Gentle machine wash or hand wash",
+      "Use mild detergent",
+      "Avoid bleach",
+      "Iron when slightly damp on medium heat"
+    ],
+    length: "5.5 meters",
+    featured: true,
+    new: true,
+    inStock: true
+  },
+
+  {
+    "id": "saree20",
+    "name": "Mul Cotton Embroidery Saree",
+    "slug": "mul-cotton-embroidery-saree",
+    "price": 3500,
+    "discountPrice": 1150,
+    "images": [
+      {
+        "id": "saree20_1",
+        "src": "/saree20/saree20_1.jpg",
+        "alt": "Mul Cotton Embroidery Saree - Front View"
+      },
+      {
+        "id": "saree20_2",
+        "src": "/saree20/saree20_2.jpg",
+        "alt": "Mul Cotton Embroidery Saree - Detail View"
+      },
+      {
+        "id": "saree20_3",
+        "src": "/saree20/saree20_3.jpg",
+        "alt": "Mul Cotton Embroidery Saree - Front View"
+      },
+      {
+        "id": "saree20_4",
+        "src": "/saree20/saree20_4.jpg",
+        "alt": "Mul Cotton Embroidery Saree - Detail View"
+      },
+      {
+        "id": "saree20_5",
+        "src": "/saree20/saree20_5.jpg",
+        "alt": "Mul Cotton Embroidery Saree - Front View"
+      },
+      {
+        "id": "saree20_6",
+        "src": "/saree20/saree20_6.jpg",
+        "alt": "Mul Cotton Embroidery Saree - Detail View"
+      }
+    ],
+    "type": "cotton",
+    "occasion": ["festive", "casual"],
+    "color": ["multicolor"],
+    "description": `
+    🌸 Mul cotton embroidery saree 🌸
+    🌸 Stich Jhul Kodom design 🌸
+    🌸 Premium quality soft cotton 🌸
+    `,
+    "material": "Cotton",
+    "blousePiece": false,
+    "blouseDetails": "No Blouse Piece",
+    "careInstructions": [
+      "Gentle hand wash only",
+      "Use mild detergent",
+      "Do not bleach",
+      "Dry in shade",
+      "Iron at low temperature"
+    ],
+    "length": "5.5 meters",
+    "featured": true,
+    "new": true,
+    "inStock": true
+  },
+
+  {
+    "id": "saree21",
+    "name": "Hand Block Printed Cotton Mul Saree",
+    "slug": "hand-block-printed-cotton-mul-saree",
+    "price": 3500,
+    "discountPrice": 1150,
+    "images": [
+      {
+        "id": "saree21_1",
+        "src": "/saree21/saree21_1.jpg",
+        "alt": "Hand Block Printed Cotton Mul Saree - Front View"
+      },
+      {
+        "id": "saree21_2",
+        "src": "/saree21/saree21_2.jpg",
+        "alt": "Hand Block Printed Cotton Mul Saree - Detail View"
+      },
+      {
+        "id": "saree21_3",
+        "src": "/saree21/saree21_3.jpg",
+        "alt": "Hand Block Printed Cotton Mul Saree - Front View"
+      },
+      {
+        "id": "saree21_4",
+        "src": "/saree21/saree21_4.jpg",
+        "alt": "Hand Block Printed Cotton Mul Saree - Detail View"
+      },
+      {
+        "id": "saree21_5",
+        "src": "/saree21/saree21_5.jpg",
+        "alt": "Hand Block Printed Cotton Mul Saree - Front View"
+      }
+    ],
+    "type": "cotton",
+    "occasion": ["festive", "casual"],
+    "color": [ "multicolor"],
+    "description": `
+    🌼 Pure cotton mul saree with hand block print 🌼
+    🌼 Size: 6.5 meters including blouse 🌼
+    🌼 Natural dyes and colors used 🌼
+    🌼 Pure hand work (no screen printing, no chemicals) 🌼
+    🌼 Premium breathable cotton quality 🌼
+    `,
+    "material": "Pure Cotton (92*80 count)",
+    "blousePiece": true,
+    "blouseDetails": "Running Blouse Piece Included",
+    "careInstructions": [
+      "Hand wash separately in cold water",
+      "Use mild natural detergents",
+      "Do not bleach",
+      "Dry in shade",
+      "Iron at medium heat"
+    ],
+    "length": "6.5 meters",
+    "featured": true,
+    "new": true,
+    "inStock": true
+  },
+
+
+  {
+    "id": "saree22",
+    "name": "Pure Mul Cotton Saree with Cotton Blouse",
+    "slug": "pure-mul-cotton-saree-with-cotton-blouse",
+    "price": 3500,
+    "discountPrice": 1150,
+    "images": [
+      {
+        "id": "saree22_1",
+        "src": "/saree22/saree22_1.jpg",
+        "alt": "Pure Mul Cotton Saree with Cotton Blouse - Front View"
+      },
+      {
+        "id": "saree22_2",
+        "src": "/saree22/saree22_2.jpg",
+        "alt": "Pure Mul Cotton Saree with Cotton Blouse - Detail View"
+      },
+      {
+        "id": "saree22_3",
+        "src": "/saree22/saree22_3.jpg",
+        "alt": "Pure Mul Cotton Saree with Cotton Blouse - Front View"
+      },
+      {
+        "id": "saree22_4",
+        "src": "/saree22/saree22_4.jpg",
+        "alt": "Pure Mul Cotton Saree with Cotton Blouse - Detail View"
+      },
+      {
+        "id": "saree22_5",
+        "src": "/saree22/saree22_5.jpg",
+        "alt": "Pure Mul Cotton Saree with Cotton Blouse - Front View"
+      },
+      {
+        "id": "saree22_6",
+        "src": "/saree22/saree22_6.jpg",
+        "alt": "Pure Mul Cotton Saree with Cotton Blouse - Detail View"
+      }
+    ],
+    "type": "cotton",
+    "occasion": ["casual", "festive"],
+    "color": ["white", "multicolor"],
+    "description": `
+    🌼 100% pure Mul cotton saree 🌼
+    🌼 Length: 5.5 meters 🌼
+    🌼 Cotton blouse piece (cut: 0.9 meters) 🌼
+    🌼 Elegant tassel detailing on pallu 🌼
+    🌼 Soft, breathable, and lightweight fabric 🌼
+    `,
+    "material": "100% Mul Cotton",
+    "blousePiece": true,
+    "blouseDetails": "Cotton Blouse Piece (0.9 meters)",
+    "careInstructions": [
+      "Gentle hand wash separately",
+      "Use mild detergent",
+      "Do not bleach",
+      "Dry in shade",
+      "Iron at medium heat"
+    ],
+    "length": "5.5 meters (saree) + 0.9 meters (blouse)",
+    "featured": true,
+    "new": true,
+    "inStock": true
+  },
+
+
+  {
+    "id": "saree23",
+    "name": "Takshshila Paithani Silk Saree",
+    "slug": "takshshila-paithani-silk-saree",
+    "price": 2000,
+    "discountPrice": 1450,
+    "images": [
+      {
+        "id": "saree23_1",
+        "src": "/saree23/saree23_1.jpg",
+        "alt": "Takshshila Paithani Silk Saree - Front View"
+      },
+      {
+        "id": "saree23_2",
+        "src": "/saree23/saree23_2.jpg",
+        "alt": "Takshshila Paithani Silk Saree - Detail View"
+      },
+      {
+        "id": "saree23_3",
+        "src": "/saree23/saree23_3.jpg",
+        "alt": "Takshshila Paithani Silk Saree - Front View"
+      },
+      {
+        "id": "saree23_4",
+        "src": "/saree23/saree23_4.jpg",
+        "alt": "Takshshila Paithani Silk Saree - Detail View"
+      },
+      {
+        "id": "saree23_5",
+        "src": "/saree23/saree23_5.jpg",
+        "alt": "Takshshila Paithani Silk Saree - Front View"
+      },
+      {
+        "id": "saree23_6",
+        "src": "/saree23/saree23_6.jpg",
+        "alt": "Takshshila Paithani Silk Saree - Detail View"
+      }
+    ],
+    "type": "silk",
+    "occasion": ["festive", "wedding"],
+    "color": ["multicolor"],
+    "description": `
+    ✨ New Takshshila Paithani Silk Saree ✨
+    ✨ All over Butti design ✨
+    ✨ Elegant Floral Brocade Border ✨
+    ✨ 50% Pure Silk fabric ✨
+    ✨ Comes with matching self blouse piece ✨
+    ✨ Full stock available 💯 ✨
+    `,
+    "material": "50% Pure Silk",
+    "blousePiece": true,
+    "blouseDetails": "Self Blouse Piece",
+    "careInstructions": [
+      "Dry clean only",
+      "Store in a cool, dry place",
+      "Avoid direct sunlight exposure",
+      "Iron on low heat with protective cloth"
+    ],
+    "length": "5.5 meters (approx.)",
+    "featured": true,
+    "new": true,
+    "inStock": true
+  },
+
+
+  {
+    "id": "saree24",
+    "name": "Cotton Tussar Saree with Embroidered Blouse",
+    "slug": "cotton-tussar-embroidered-blouse",
+    "price": 2500,
+    "discountPrice": 1650,
+    "images": [
+      {
+        "id": "saree24_1",
+        "src": "/saree24/saree24_1.jpg",
+        "alt": "Cotton Tussar Saree with Gold Zari Patta - Front View"
+      },
+      {
+        "id": "saree24_2",
+        "src": "/saree24/saree24_2.jpg",
+        "alt": "Cotton Tussar Saree with Gold Zari Patta - Detail View"
+      },
+      {
+        "id": "saree24_3",
+        "src": "/saree24/saree24_3.jpg",
+        "alt": "Cotton Tussar Saree - Front View"
+      },
+      {
+        "id": "saree24_4",
+        "src": "/saree24/saree24_4.jpg",
+        "alt": "Cotton Tussar Saree with Embroidered Blouse - Detail View"
+      }
+    ],
+    "type": "cotton",
+    "occasion": ["festive", "wedding"],
+    "color": ["gold", "multicolor"],
+    "description": `
+    ❤️ Fresh Arrival ❤️
+    ✨ Pure Cotton Tussar Saree with beautiful gold zari patta
+    ✨ Stunning jhumkas design throughout the saree
+    ✨ Teamed with a fully embroidered multi-thread blouse (1 meter)
+    ✨ Premium finish and elegant look
+    `,
+    "material": "Pure Cotton Tussar",
+    "blousePiece": true,
+    "blouseDetails": "1 meter fully embroidered multi-thread blouse",
+    "careInstructions": [
+      "Dry clean recommended",
+      "Use mild detergent if hand washing",
+      "Do not bleach",
+      "Iron on low heat from the reverse side"
+    ],
+    "length": "5.5 meters (saree) + 1 meter blouse",
+    "featured": true,
+    "new": true,
+    "inStock": true
+  },
+
+  {
+    "id": "saree25",
+    "name": "Ilkal Jeri Checks Saree",
+    "slug": "ilkal-jeri-checks-saree",
+    "price": 2950,
+    "discountPrice": 1950,
+    "images": [
+      {
+        "id": "saree25_1",
+        "src": "/saree25/saree25_1.jpg",
+        "alt": "Ilkal Jeri Checks Saree - Front View"
+      },
+      {
+        "id": "saree25_2",
+        "src": "/saree25/saree25_2.jpg",
+        "alt": "Ilkal Jeri Checks Saree - Detail View"
+      },
+      {
+        "id": "saree25_3",
+        "src": "/saree25/saree25_3.jpg",
+        "alt": "Ilkal Jeri Checks Saree - Pallu View"
+      },
+      {
+        "id": "saree25_4",
+        "src": "/saree25/saree25_4.jpg",
+        "alt": "Ilkal Jeri Checks Saree - Border View"
+      },
+      {
+        "id": "saree25_5",
+        "src": "/saree25/saree25_5.jpg",
+        "alt": "Ilkal Jeri Checks Saree - Blouse View"
+      },
+      {
+        "id": "saree25_6",
+        "src": "/saree25/saree25_6.jpg",
+        "alt": "Ilkal Jeri Checks Saree - Full View"
+      }
+    ],
+    "type": "cotton",
+    "occasion": ["festive", "casual"],
+    "color": ["multicolor", "gold"],
+    "description": `
+    🌟 Tana Warp Special Collection 🌟
+    ✨ Material: Mercerised cotton with zari checks
+    ✨ Border: Traditional chikki paras with temple 🛕 motifs
+    ✨ Pallu: Catlon pallu for elegant fall
+    ✨ Blouse: Beautiful contrast blouse included
+    ✨ Saree Name: Ilkal Jeri Checks Saree
+    `,
+    "material": "Mercerised Cotton with Zari Checks",
+    "blousePiece": true,
+    "blouseDetails": "Contrast Blouse",
+    "careInstructions": [
+      "Dry clean recommended",
+      "Use mild detergent if hand washing",
+      "Do not bleach",
+      "Iron on medium heat"
+    ],
+    "length": "6.2 meters",
+    "featured": true,
+    "new": true,
+    "inStock": true
+  }
+  
+  
+  
+  
+  
+  
 
   
 
